@@ -4,6 +4,8 @@
       
       This is an application that takes in notes from a user. These notes can be selected on the side bar.
       
+      deployed website https://boiling-peak-56543-1305f60d7f77.herokuapp.com/notes
+      
   ## Table of Contents
       
   [Installation](https://github.com/ChrisLee2477/task-list#installation)
